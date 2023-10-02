@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-02T12:12:20.038Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="Yd3PijYiDYiRTEaOwmB1" version="22.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-02T12:13:57.282Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="eXB6EpqOMnM3ilOHPJ4N" version="22.0.0" type="github">
   <diagram name="Page-1" id="UAuCBKq5VFrk-jm5fiol">
     <mxGraphModel dx="1877" dy="566" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -85,7 +85,7 @@
         <mxCell id="ScGbJSlurd-3eRrMIKOI-14" value="ENTRENADORES" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="490" y="360" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ScGbJSlurd-3eRrMIKOI-23" value="PORTERO" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ScGbJSlurd-3eRrMIKOI-23" value="PORTEROS" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-120" y="470" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ScGbJSlurd-3eRrMIKOI-24" value="DEFENSORES" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -94,13 +94,13 @@
         <mxCell id="ScGbJSlurd-3eRrMIKOI-25" value="DELANTEROS" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="470" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ScGbJSlurd-3eRrMIKOI-32" value="PORTERO" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ScGbJSlurd-3eRrMIKOI-32" value="PORTERAS" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="610" y="470" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ScGbJSlurd-3eRrMIKOI-33" value="DEFENSORES" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="730" y="470" width="120" height="60" as="geometry" />
+        <mxCell id="ScGbJSlurd-3eRrMIKOI-33" value="DEFENSORAS" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="729" y="470" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ScGbJSlurd-3eRrMIKOI-34" value="DELANTEROS" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ScGbJSlurd-3eRrMIKOI-34" value="DELANTERAS" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="850" y="470" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
